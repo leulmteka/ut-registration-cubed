@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e77672c-695c-427e-8aae-d538f11611f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../api/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/utreg/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/utreg/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/utreg/model/ModelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/utreg/UtregApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utreg/UtRegistrationApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utreg/controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utreg/model/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utreg/model/ModelService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utreg/service/ModelEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utreg/service/ModelRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/dbc79c5a-6395-4f09-8d0b-e278743d9b6e/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/47050697-b66d-4112-8d48-d4a4f705403d/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dataSources/69b890e9-f0e8-4fab-8856-2cfc89c57c3a/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/identifier.sqlite::" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/api/utreg/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/ut-registration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ut-registration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utreg/UtRegistrationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/utreg/UtRegistrationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utreg/controller/UtRegistrationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utreg/model/UtRegistrationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utreg/service/UtRegistrationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/utreg/utregistration/UtRegistrationApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2dpfy2vkrq45uAUDjH3ERr6beDU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.UtRegistrationApplication.executor": "Run",
+    "git-widget-placeholder": "development",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/leulteka/Documents/code/band/ut-registration-cubed/javaAPI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UtRegistrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ut-registration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.utreg.UtRegistrationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e77672c-695c-427e-8aae-d538f11611f0" name="Changes" comment="" />
+      <created>1710710190685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710710190685</updated>
+      <workItem from="1710710191705" duration="10912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
